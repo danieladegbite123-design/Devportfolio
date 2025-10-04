@@ -23,4 +23,4 @@ I started by thinking about how people would use this on their phones, then made
 Check out the live site: [http://127.0.0.1:5500/index.html]
 
 ## A Peek at the Site
-![Website showing on different devices](shot.png)
+![Website showing on different devices](shot.png) Laptop view
