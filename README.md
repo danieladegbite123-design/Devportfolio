@@ -28,6 +28,7 @@ Check out the live site: [http://127.0.0.1:5500/index.html]
 ![Website showing on different devices](Tablet.png)
 
 Tablet view
-![Website showing on different devices](https://github.com/danieladegbite123-design/Devportfolio/blob/f2facc05246a9104f06df02f4cf5b923449fd6e8/Screenshot%202025-10-04%20084350.png)
+
+![Website showing on different devices](mobile.png)
 
 Mobile view
