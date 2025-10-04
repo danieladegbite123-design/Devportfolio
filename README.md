@@ -24,4 +24,8 @@ Check out the live site: [http://127.0.0.1:5500/index.html]
 
 ## A Peek at the Site
 ![Website showing on different devices](shot.png) Laptop view
-![Website showing on different devices](https://github.com/danieladegbite123-design/Devportfolio/blob/f2662013b9d3009d105cdf48f20e34787159dd8c/Screenshot%202025-10-04%20084449.png) Tablet view
+
+![Website showing on different devices](https://github.com/danieladegbite123-design/Devportfolio/blob/f2662013b9d3009d105cdf48f20e34787159dd8c/Screenshot%202025-10-04%20084449.png)
+Tablet View
+![Website showing on different devices](https://github.com/danieladegbite123-design/Devportfolio/blob/112ee522b42da1f8ea5587814c5b8e1b609a4c0b/Screenshot%202025-10-04%20084350.png)
+Mobile view
